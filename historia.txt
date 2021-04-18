@@ -1,3 +1,7 @@
 Esta es la historia de Dennis
 
-tengo 31 años
+tengo 24 años
+
+Naci en cusco y estoy aprendendiendo git.
+
+Parece facil.
